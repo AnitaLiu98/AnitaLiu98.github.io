@@ -59,8 +59,8 @@ disqus_username: anitaliu
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: cec4e2334f1f8f7a8de1                            #生成的clientID
+  clientSecret: 2a9544035be9deaae6a990ad33d978c600dd93e0    #生成的clientSecret
   repo: AnitaLiu98.github.io    #仓库名称
   owner: AnitaLiu98    #github用户名
   admin: AnitaLiu98
